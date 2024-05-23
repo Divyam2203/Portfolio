@@ -55,6 +55,10 @@ a {
   background-color: transparent
 }
 
+a {
+  color: inherit;
+}
+
 a:active,
 a:hover {
   outline: 0
@@ -4556,7 +4560,7 @@ tbody.collapse.in {
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-  color: #333;
+  color: #9f9e9e;
   background-color: transparent
 }
 
